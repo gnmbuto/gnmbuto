@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gnmbuto
 - 👀 I’m interested in Blockchain  Applications
-- 🌱 I’m currently learning C and Bash Scripting
+- 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Blockchain Development
 - 📫 How to reach me nafdepragmatic@outlook.com
 
